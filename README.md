@@ -1,4 +1,4 @@
-# Entorno de Machine Learning con JupyterLab (NVIDIA / Apple Silicon)
+# Entorno de ML/DL con JupyterLab (NVIDIA / Apple Silicon)
 
 Este repositorio provee un entorno estandarizado de JupyterLab con soporte completo de aceleración por hardware tanto para usuarios con **GPUs de NVIDIA (CUDA)** en Windows/Linux, como para usuarios con **Apple Silicon (MPS/Metal)** en macOS.
 

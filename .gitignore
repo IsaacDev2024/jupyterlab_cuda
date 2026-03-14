@@ -9,3 +9,6 @@ venv_mac/
 # PyCache
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
